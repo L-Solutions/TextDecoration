@@ -10,7 +10,9 @@ maintainer:          benoit.fraikin@usherbrooke.ca
 copyright:           BSD3
 category:            Web
 build-type:          Simple
-extra-source-files:  README.md
+extra-source-files:  
+    README.md
+  . ChangeLog.md
 cabal-version:       >=1.10
 
 library
